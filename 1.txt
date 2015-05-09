@@ -1,0 +1,7 @@
+1.DES Encryption algorithm
+361137304des nanoseconds
+Blowfish Encryption algorithm
+39225672blowfish nanoseconds
+
+
+
